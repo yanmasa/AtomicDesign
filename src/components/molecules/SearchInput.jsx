@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
-import { Input } from "@material-ui/core";
 import { PrimaryButton } from "../atoms/button/PrimaryButton";
+import { Input } from "../atoms/input/Input";
 
 export const SearchInput = () => {
   return (

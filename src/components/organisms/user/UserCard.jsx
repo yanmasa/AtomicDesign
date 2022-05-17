@@ -1,4 +1,4 @@
-import { Card } from "@material-ui/core";
+import { Card } from "../../atoms/card/Card";
 import styled from "styled-components";
 import { UserIconWithName } from "../../molecules/user/UserIconWithName";
 
